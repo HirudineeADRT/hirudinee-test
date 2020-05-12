@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "hirudinee-test.js",
         "cursor": {
-          "lineNumber": 13,
-          "column": 17
+          "lineNumber": 14,
+          "column": 15
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -231,7 +231,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1589260379353
+    "lastSave": 1589260919016
   },
   "VCS_STATE": {
     "provider": "GitHub",
