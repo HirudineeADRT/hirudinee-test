@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "hirudinee-test.js",
         "cursor": {
-          "lineNumber": 1,
-          "column": 1
+          "lineNumber": 13,
+          "column": 17
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -23,6 +23,16 @@
           "name": "hirudineeTest"
         },
         "triggers": []
+      },
+      "34b2e125-c6e6-4ecc-b2e7-a515b4365888": {
+        "id": "34b2e125-c6e6-4ecc-b2e7-a515b4365888",
+        "parent": null,
+        "name": "package.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "package.json"
       }
     },
     "openFiles": [
@@ -189,8 +199,7 @@
       }
     },
     "customTemplate": {
-      "overrideDefault": false,
-      "dialect": null,
+      "dialect": "CloudFormation",
       "definitions": null
     },
     "envVariables": [
@@ -209,8 +218,7 @@
           "name": "aws-sdk",
           "language": "nodejs",
           "version": "2.644.0",
-          "dev": true,
-          "notRemovable": false
+          "dev": true
         }
       }
     }
@@ -223,7 +231,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1589260283504
+    "lastSave": 1589260379353
   },
   "VCS_STATE": {
     "provider": "GitHub",
